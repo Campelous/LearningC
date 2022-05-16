@@ -1,0 +1,8 @@
+C:\Users\Sergio\source\repos\Learning1\Learning1\bin\Debug\Learning1.exe.config
+C:\Users\Sergio\source\repos\Learning1\Learning1\bin\Debug\Learning1.exe
+C:\Users\Sergio\source\repos\Learning1\Learning1\bin\Debug\Learning1.pdb
+C:\Users\Sergio\source\repos\Learning1\Learning1\obj\Debug\Learning1.csproj.AssemblyReference.cache
+C:\Users\Sergio\source\repos\Learning1\Learning1\obj\Debug\Learning1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sergio\source\repos\Learning1\Learning1\obj\Debug\Learning1.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\source\repos\Learning1\Learning1\obj\Debug\Learning1.exe
+C:\Users\Sergio\source\repos\Learning1\Learning1\obj\Debug\Learning1.pdb
